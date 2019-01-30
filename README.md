@@ -17,3 +17,5 @@ sudo tcpdump -i eth0 -nn -s0 -v port 80
 `-v` : Verbose, using (-v) or (-vv) *increases the amount of detail shown* in the output, often showing more protocol specific information.
 
 `port 80` : this is a common port filter to capture only traffic on port 80, that is of course usually HTTP.
+
+[TCPDUMP : Dump HTTP headers as ASCII and HEX](https://github.com/omermahgoub/Linux/blob/master/tcpdump/tcpdump-dump-http-headers-as-ascii-and-hex.md)
