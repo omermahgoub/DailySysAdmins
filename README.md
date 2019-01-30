@@ -1,3 +1,3 @@
 # Linux
 
-### TCPdump & Wireshark tips & tricks 
+### TCPdump tips and tricks 
