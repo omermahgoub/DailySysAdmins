@@ -16,4 +16,4 @@ sudo tcpdump -i eth0 -nn -s0 -v port 80
 
 `-v` : Verbose, using (-v) or (-vv) *increases the amount of detail shown* in the output, often showing more protocol specific information.
 
-*port 80* : this is a common port filter to capture only traffic on port 80, that is of course usually HTTP.
+`port 80` : this is a common port filter to capture only traffic on port 80, that is of course usually HTTP.
